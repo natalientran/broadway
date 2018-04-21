@@ -4,7 +4,11 @@
   text-align: center;
 }
 
-.link {
+.nav {
+  color: white;
+}
+
+a {
   color: white;
 }
 
